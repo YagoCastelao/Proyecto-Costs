@@ -44,7 +44,7 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
     <form onSubmit={submit} className={styles.form}>
       <Input
         type="text"
-        text="Nombre del proyecto"
+        text="Nombre del Proyecto"
         name="name"
         placeholder="Ingrese el nombre del proyecto"
         handleOnChange={handleChange}

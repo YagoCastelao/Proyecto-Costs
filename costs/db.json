@@ -76,6 +76,50 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "e88b",
+      "name": "Pc Biel",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desarrollo"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "f80e",
+      "name": "Yago Cima Castelao",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infraestructura"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "27e9",
+      "name": "Gabriel Computadora",
+      "budget": "6000",
+      "category": {
+        "id": "2",
+        "name": "Desarrollo"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d680",
+      "name": "Yago Cima Castelao",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infraestructura"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
