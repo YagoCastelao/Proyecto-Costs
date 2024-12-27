@@ -1,21 +1,99 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infraestructura"
-        },
-        {
-          "id": 2,
-          "name": "Desarrollo"
-        },
-        {
-          "id": 3,
-          "name": "Design"
-        },
-        {
-          "id": 4,
-          "name": "Planificacion"
-        }
-    ]
+  "projects": [
+    {
+      "id": "49f7",
+      "category": {
+        "id": "1",
+        "name": "Infraestructura"
+      },
+      "budget": "333",
+      "name": "Greenxi",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "551e",
+      "category": {
+        "id": "1",
+        "name": "Infraestructura"
+      },
+      "budget": "45454",
+      "name": "ffdfdf",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5208",
+      "category": {
+        "id": "1",
+        "name": "Infraestructura"
+      },
+      "budget": "45454",
+      "name": "ffdfdf",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "56c5",
+      "category": {
+        "id": "1",
+        "name": "Infraestructura"
+      },
+      "budget": "45454",
+      "name": "ffdfdf",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ae69",
+      "category": {
+        "id": "1",
+        "name": "Infraestructura"
+      },
+      "budget": "45454",
+      "name": "ffdfdf",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "df89",
+      "name": "Teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desarrollo"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ffea",
+      "name": "Teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desarrollo"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infraestructura"
+    },
+    {
+      "id": "2",
+      "name": "Desarrollo"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planificacion"
+    }
+  ]
 }
