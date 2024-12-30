@@ -43,8 +43,8 @@ La API se ejecuta en http://localhost:5000 y ofrece los siguientes endpoints:
 - **GET** /costs/:id: Retorna un costo específico.
 - **DELETE** /costs/:id: Elimina un costo.
 
-##Contribuyendo
+## Contribuyendo
 Si deseas contribuir, realiza un fork de este repositorio y envía un pull request.
 
-##Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT.
