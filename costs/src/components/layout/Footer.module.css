@@ -32,3 +32,12 @@
     font-weight: bold;
     color: #ffbb33;
 }
+
+li a {
+  color: #fff;
+  text-decoration: none; 
+}
+
+li a:visited {
+  color: #fff;
+}
