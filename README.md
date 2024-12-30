@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto utiliza las principales funcionalidades de React condensadas para crear un **controlador de costos** o **creador de proyectos**. La idea es permitir que los usuarios ingresen sus proyectos, que se guardan en una base de datos a través de una API local creada con **JSON Server**. La plataforma está orientada a empresas que desean implementar proyectos basados en presupuestos, asignando valores a cada involucrado.
 
-![Imagen del proyecto](https://imgur.com/a/hjTC2cZ)
+![Imagen del proyecto]([URL_DE_LA_IMAGEN](https://imgur.com/a/hjTC2cZ))
 
 ## Funcionalidades
 - **Registro y gestión de proyectos y costos.**
