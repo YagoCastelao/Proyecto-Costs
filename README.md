@@ -1,24 +1,26 @@
-# Proyecto-Costos
+# Proyecto-Costos con React y Vite
 
-## Descripción
+![Badge de Tecnologías](https://img.shields.io/badge/React-v18-blue?style=flat-square&logo=react)![Badge de Tecnologías](https://img.shields.io/badge/Vite-v4-purple?style=flat-square&logo=vite)
+
+## 🚀 Descripción
 Este proyecto utiliza las principales funcionalidades de React condensadas para crear un **controlador de costos** o **creador de proyectos**. La idea es permitir que los usuarios ingresen sus proyectos, que se guardan en una base de datos a través de una API local creada con **JSON Server**. La plataforma está orientada a empresas que desean implementar proyectos basados en presupuestos, asignando valores a cada involucrado.
 
 ![Imagen del proyecto]((https://imgur.com/a/hjTC2cZ))
 
-## Funcionalidades
+## 🌟 Funcionalidades
 - **Registro y gestión de proyectos y costos.**
 - **Interfaz interactiva** con React.
 - **API local** para persistencia de datos con JSON Server.
 - **Enrutamiento** para la navegación entre las páginas.
 
-## Tecnologías Utilizadas
-- **React**: Biblioteca JavaScript para la construcción de la interfaz.
+## 🛠️ Tecnologías Utilizadas
+- **React**: Biblioteca JavaScript.
 - **React Router**: Gestión de rutas de la aplicación.
 - **Vite**: Herramienta de compilación y desarrollo rápido.
 - **JSON Server**: Creación de una API local para persistir los datos de costos y gastos.
 - **React Icons**: Íconos para la interfaz.
 
-## Instalación
+## ⚙️ Instalación
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/YagoCastelao/Proyecto-Costs
