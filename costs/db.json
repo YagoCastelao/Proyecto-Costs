@@ -3,13 +3,20 @@
     {
       "id": "27e9",
       "name": "Projeto Website",
-      "budget": "3000",
+      "budget": "33333",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "4",
+        "name": "Planificacion"
       },
-      "cost": 0,
-      "services": []
+      "cost": 100,
+      "services": [
+        {
+          "name": "meu novo computador",
+          "cost": "100",
+          "description": "pc gamer",
+          "id": "0a98cfd4-ad19-4b09-aeab-a12002e15b7b"
+        }
+      ]
     }
   ],
   "categories": [
