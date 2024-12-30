@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "27e9",
-      "name": "Gabriel Computadora",
-      "budget": "6000",
+      "name": "Projeto Website",
+      "budget": "3000",
       "category": {
-        "id": "2",
-        "name": "Desarrollo"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
