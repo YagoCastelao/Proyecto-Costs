@@ -25,15 +25,19 @@ Este proyecto utiliza las principales funcionalidades de React condensadas para 
    ```bash
    git clone https://github.com/YagoCastelao/Proyecto-Costs
    
-2. Instala las dependencias:
+2. Acceda a la carpeta del Proyecto
+   ```bash
+   cd costs
+   
+3. Instala las dependencias:
    ```bash
    npm install
 
-3. Inicia el servidor backend (API local):
+4. Inicia el servidor backend (API local):
    ```bash
    npm run backend
 
-4. Inicia la aplicación:
+5. Inicia la aplicación:
    ```bash
    npm run dev
 
