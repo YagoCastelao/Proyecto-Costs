@@ -10,6 +10,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "dada",
+      "name": "Contratacion de Software Developer",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desarrollo"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
