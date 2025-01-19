@@ -1,12 +1,12 @@
 {
   "projects": [
     {
-      "id": "396d",
-      "name": "Crear un Website",
+      "id": "1897",
+      "name": "ReDOffice",
       "budget": "5000",
       "category": {
-        "id": "2",
-        "name": "Desarrollo"
+        "id": "4",
+        "name": "Planificacion"
       },
       "cost": 0,
       "services": []
