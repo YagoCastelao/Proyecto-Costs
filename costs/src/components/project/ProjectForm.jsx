@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import styles from "./ProjectForm.module.css";
 
-import Input from "../form/input";
+import Input from "../form/Input";
 import Select from "../form/Select";
 import SubmitButton from "../form/SubmitButton";
 
@@ -30,14 +30,17 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
   };
 
   function handleChange(e) {
-    setProject({ ...project, [e.target.name]: e.target.value })
+    setProject({ ...project, [e.target.name]: e.target.value });
   }
 
   function handleCategory(e) {
-    setProject({ ...project, category: {
-      id: e.target.value,
-      name: e.target.options[e.target.selectedIndex].text,
-    }  });
+    setProject({
+      ...project,
+      category: {
+        id: e.target.value,
+        name: e.target.options[e.target.selectedIndex].text,
+      },
+    });
   }
 
   return (
@@ -48,7 +51,7 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
         name="name"
         placeholder="Ingrese el nombre del proyecto"
         handleOnChange={handleChange}
-        value={project.name ? project.name : ''}
+        value={project.name ? project.name : ""}
       />
       <Input
         type="Number"
@@ -56,7 +59,7 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
         name="budget"
         placeholder="Ingrese el presupuesto del proyecto"
         handleOnChange={handleChange}
-        value={project.budget ? project.budget : ''}
+        value={project.budget ? project.budget : ""}
       />
       <Select
         name="category_id"
