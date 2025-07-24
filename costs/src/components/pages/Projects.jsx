@@ -33,7 +33,7 @@ function Projects() {
           setProjects(data);
           setRemoveLoading(true);
         })
-        .catch((err) => concole.log(err));
+        .catch((err) => console.log(err));
     }, 500);
   }, []);
 
